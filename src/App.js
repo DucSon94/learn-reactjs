@@ -40,7 +40,7 @@ function App() {
 
        ))}
        </ul>
-       <p>{student}</p>
+       <p>{student.name}</p>
       </header>
     </div>
     
